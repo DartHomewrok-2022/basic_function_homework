@@ -1,5 +1,4 @@
-void main() {
 // Create a function called func.
 
-// Return the value float type.
-}
+// Return the value double type.
+void main() {}
