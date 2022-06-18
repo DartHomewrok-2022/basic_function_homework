@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import '../bin/basic_func01.dart';
+import '../bin/basic_func02.dart';
 
 void main() {
   test("string", () {
