@@ -25,9 +25,9 @@ Output: 9
 
 ## Arithmetic02
 
-// Create a function called divide.
-// Create function arguments a and b of type int.
-// Returns the floor division of a and b.
+  Create a function called divide.
+  Create function arguments a and b of type int.
+  Returns the floor division of a and b.
 
 **Example 1:**
 
@@ -39,9 +39,9 @@ Output: 0
 
 ## Arithmetic03
 
-// Create a function called func.
-// Create function arguments a and b of type int.
-// Returns the remainder of a and b.
+  Create a function called func.
+  Create function arguments a and b of type int.
+  Returns the remainder of a and b.
 
 **Example 1:**
 
@@ -53,9 +53,9 @@ Output: 2
 
 ## Arithmetic04
 
-// Create a function called multiple.
-// Create function arguments a and b of type int.
-// Return the multiplication of a and b.
+  Create a function called multiple.
+  Create function arguments a and b of type int.
+  Return the multiplication of a and b.
 
 **Example 1:**
 
@@ -67,10 +67,10 @@ Output: 15
 
 ## Arithmetic05
 
-// Create a function called func.
-// Create a fucntion argument ‘number’
-// two digits numbers will be given.
-// return the sum of the number’s digits.
+  Create a function called func.
+  Create a fucntion argument ‘number’
+  two digits numbers will be given.
+  return the sum of the number’s digits.
 
 **Example 1:**
 
@@ -81,11 +81,11 @@ Output: 9
 
 ## Arithmetic06
 
-// Create a function called func.
-// Create a function argument called ‘number’ of type int
-// the two-digit numbers will be given.
-// Find the reverse of the number and return to a variable called ‘answer’
-// return answer
+  Create a function called func.
+  Create a function argument called ‘number’ of type int
+  the two-digit numbers will be given.
+  Find the reverse of the number and return to a variable called ‘answer’
+  return answer
 
 **Example 1:**
 
@@ -97,14 +97,14 @@ Output: 56
 
 ## Arithmetic07
 
-// Create a function called func.
-// Create a function argument  called ‘number’ of type int
-// the three-digit number will be given.
-// Find the ‘number’ first digit and assign to x1.
-// Find the ‘number’ second digit and assign to x2.
-// Find the ‘number’ third digit and assign to x3.
-// Create a variable called ‘answer’ and assign it the sum of the three digits.
-// return the sum of the digits.
+  Create a function called func.
+  Create a function argument  called ‘number’ of type int
+  the three-digit number will be given.
+  Find the ‘number’ first digit and assign to x1.
+  Find the ‘number’ second digit and assign to x2.
+  Find the ‘number’ third digit and assign to x3.
+  Create a variable called ‘answer’ and assign it the sum of the three digits.
+  return the sum of the digits.
 
 **Example 1:**
 
@@ -124,11 +124,11 @@ Output: 0
 
 ## Arithmetic08
 
-// Create a function called func.
-// Create a function argument called ‘number’ type of int.
-// Create a variable called ‘answer’.
-// Find the remainder of the division of number by 3 and assign it to ‘answer’.
-// return the answer.
+  Create a function called func.
+  Create a function argument called ‘number’ type of int.
+  Create a variable called ‘answer’.
+  Find the remainder of the division of number by 3 and assign it to ‘answer’.
+  return the answer.
 
 **Example 1:**
 
@@ -148,11 +148,11 @@ Output: 9
 
 ## Arithmetic09
 
-// Create a function called func.
-// Create a function argument called ‘number’ of type int.
-// Find the remainder of the division of number by 2 and assign it to
-// ‘answer’.
-// return the answer.
+  Create a function called func.
+  Create a function argument called ‘number’ of type int.
+  Find the remainder of the division of number by 2 and assign it to
+  ‘answer’.
+  return the answer.
 
 **Example 1:**
 
