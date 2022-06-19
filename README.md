@@ -8,86 +8,109 @@ Automated grading of homework assignments and tests
 - commit with proper message
 
 # Problems
-## basic_func01
+## Arithmetic01
 
-  Create a function called func.
+  Create a function called add.
+  Create a function argument x of type int.
+  Create a parameter int type y of type int.
+  return sum of two parameters.
 
 **Example 1:**
 
 ```dart
-Input:
+Input: 4, 5
+Output: 9
+
+```
+
+## Arithmetic02
+
+// Create a function called divide.
+// Create function arguments a and b of type int.
+// Returns the floor division of a and b.
+
+**Example 1:**
+
+```dart
+Input: 4, 2
 Output: 0
 
 ```
 
-## basic_func02
+## Arithmetic03
 
-  Create a function called func.
+// Create a function called func.
+// Create function arguments a and b of type int.
+// Returns the remainder of a and b.
 
 **Example 1:**
 
 ```dart
-Input:
-Output: "Hello World"
+Input: 5, 3
+Output: 2
 
 ```
 
-## basic_func03
+## Arithmetic04
 
-  Create a function called func.
+// Create a function called multiple.
+// Create function arguments a and b of type int.
+// Return the multiplication of a and b.
 
 **Example 1:**
 
 ```dart
-Input:
-Output: "codeschooluz"
+Input: 5, 3
+Output: 15
 
 ```
 
-## basic_func04
+## Arithmetic05
 
-  Create a function called func.
+// Create a function called func.
+// Create a fucntion argument ‘number’
+// two digits numbers will be given.
+// return the sum of the number’s digits.
 
 **Example 1:**
 
 ```dart
-Input:
-Output: int: -1, 0, 1 ...
+Input: 45
+Output: 9
+```
+
+## Arithmetic06
+
+// Create a function called func.
+// Create a function argument called ‘number’ of type int
+// the two-digit numbers will be given.
+// Find the reverse of the number and return to a variable called ‘answer’
+// return answer
+
+**Example 1:**
+
+```dart
+Input: 65
+Output: 56
 
 ```
 
-## basic_func05
+## Arithmetic07
 
-  Create a function called func.
-
-**Example 1:**
-
-```dart
-Input:
-Output: double: -1.0, 0.1, 0.2, 1.0 ...
-```
-
-## basic_func06
-
-  Create a function called func.
+// Create a function called func.
+// Create a function argument  called ‘number’ of type int
+// the three-digit number will be given.
+// Find the ‘number’ first digit and assign to x1.
+// Find the ‘number’ second digit and assign to x2.
+// Find the ‘number’ third digit and assign to x3.
+// Create a variable called ‘answer’ and assign it the sum of the three digits.
+// return the sum of the digits.
 
 **Example 1:**
 
 ```dart
-Input:
-Output: str: "Hello World", "0", ...
-
-```
-
-## basic_func07
-
-  Create a function called func.
-
-**Example 1:**
-
-```dart
-Input: a = 5
-Output: 5
+Input: 456
+Output: 15
 
 ```
 
@@ -99,15 +122,19 @@ Output: 0
 
 ```
 
-## basic_func08
+## Arithmetic08
 
-  Create a function called func.
+// Create a function called func.
+// Create a function argument called ‘number’ type of int.
+// Create a variable called ‘answer’.
+// Find the remainder of the division of number by 3 and assign it to ‘answer’.
+// return the answer.
 
 **Example 1:**
 
 ```dart
-Input: a = 5
-Output: 6
+Input: 7
+Output: 1
 
 ```
 
@@ -119,15 +146,19 @@ Output: 9
 
 ```
 
-## basic_func09
+## Arithmetic09
 
-  Create a function called func.
+// Create a function called func.
+// Create a function argument called ‘number’ of type int.
+// Find the remainder of the division of number by 2 and assign it to
+// ‘answer’.
+// return the answer.
 
 **Example 1:**
 
 ```dart
-Input: a = 5
-Output: 4
+Input: 7
+Output: 1
 
 ```
 
@@ -139,7 +170,7 @@ Output: 7
 
 ```
 
-## basic_func10
+## Arithmetic10
 
   Create a function called func.
 
