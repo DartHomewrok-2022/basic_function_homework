@@ -33,7 +33,7 @@ Output: 9
 
 ```dart
 Input: 4, 2
-Output: 0
+Output: 2
 
 ```
 
