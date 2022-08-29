@@ -1,4 +1,4 @@
 // Create a function called func.
-
-//  Return the value 0
+// Create two arguments type int
+//  Return the summ two arguments
 void main() {}
