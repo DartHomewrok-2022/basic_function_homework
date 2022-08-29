@@ -1,3 +1,4 @@
 // Create a function called func.
-// Return the value integer type.
+// Create function arguments a and b of type int. 
+// Return the multiplication of a and b.
 void main() {}
