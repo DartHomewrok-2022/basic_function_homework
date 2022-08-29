@@ -4,6 +4,6 @@ import '../bin/basic_func01.dart';
 
 void main() {
   test("string", () {
-    expect(func(), 0);
+    expect(func(2,2), 4);
   });
 }
