@@ -114,13 +114,7 @@ Output: 15
 
 ```
 
-**Example 2:**
 
-```dart
-Input: a = 0
-Output: 0
-
-```
 
 ## Arithmetic08
 
@@ -138,13 +132,7 @@ Output: 1
 
 ```
 
-**Example 2:**
 
-```dart
-Input: a = 8
-Output: 9
-
-```
 
 ## Arithmetic09
 
@@ -162,13 +150,8 @@ Output: 1
 
 ```
 
-**Example 2:**
 
-```dart
-Input: a = 8
-Output: 7
 
-```
 
 ## Arithmetic10
 
