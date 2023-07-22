@@ -10,10 +10,7 @@ Automated grading of homework assignments and tests
 # Problems
 ## Arithmetic01
 
-  Create a function called add.
-  Create a function argument x of type int.
-  Create a parameter int type y of type int.
-  return sum of two parameters.
+Create a function called 'add' that takes two integer arguments: 'x' and 'y'. Then, return the sum of these two parameters.
 
 **Example 1:**
 
