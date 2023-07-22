@@ -1,9 +1,11 @@
+import 'dart:math';
+
 import 'package:test/test.dart';
 
 import '../bin/basic_func09.dart';
 
 void main() {
   test("string", () {
-    expect(func(6), 5);
+    expect(func(9), 1);
   });
 }
